@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-design.iml" filepath="$PROJECT_DIR$/java-design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/structure-type/structure-type.iml" filepath="$PROJECT_DIR$/structure-type/structure-type.iml" />
+    </modules>
+  </component>
+</project>
